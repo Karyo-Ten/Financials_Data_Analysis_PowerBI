@@ -34,24 +34,14 @@ This project demonstrates a comprehensive **Sales and Profit Insights Dashboard*
 ## How to Use the Dashboard
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/sales-profit-dashboard.git
+   git clone https://github.com/Karyo-Ten/Financials_Data_Analysis_PowerBI.git
    ```
 
 2. **Open the Project:**
-   Open the `.pbix` file in Power BI Desktop.
+   Open the `Financials Data Analysis.pbix` file in Power BI Desktop.
 
 3. **Explore the Dashboard:**
    Use the slicers and filters to interact with the visuals and gain insights.
-
-## Folder Structure
-```
-├── Sales_Profit_Insights_Dashboard.pbix  # Power BI file
-├── README.md                             # Documentation file
-├── Screenshots/                          # Dashboard screenshots
-    ├── Dashboard_Full_View.png          # Overview of the dashboard
-    ├── KPI_Closeup.png                  # Closeup of KPI visuals
-    ├── Country_Comparison.png           # Bar chart of sales by country
-```
 
 ## Project Learnings
 - Mastered advanced DAX functions to calculate metrics like YoY growth and segment-wise sales contributions.
@@ -59,7 +49,7 @@ This project demonstrates a comprehensive **Sales and Profit Insights Dashboard*
 - Improved understanding of business KPIs and their visualization for actionable insights.
 
 ## Screenshots
-![Dashboard Overview](Screenshots/Dashboard_Full_View.png)
+![Dashboard Overview](Sales and Profit Insights Dashboard.png)
 
 ## Future Enhancements
 - Adding predictive analytics to forecast future sales trends.
@@ -68,8 +58,8 @@ This project demonstrates a comprehensive **Sales and Profit Insights Dashboard*
 
 ## Contact
 For any questions or feedback, feel free to reach out:
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **Email:** himanshusolanki2003@gmail.com
+- **LinkedIn:** [Himanshu Solanki](https://www.linkedin.com/in/himanshu-solanki-88b979288/)
 
 ---
 
