@@ -49,7 +49,7 @@ This project demonstrates a comprehensive **Sales and Profit Insights Dashboard*
 - Improved understanding of business KPIs and their visualization for actionable insights.
 
 ## Screenshots
-![Dashboard Overview](Sales and Profit Insights Dashboard.png)
+![Dashboard Overview](https://github.com/Karyo-Ten/Financials_Data_Analysis_PowerBI/blob/main/Sales%20and%20Profit%20Insights%20Dashboard.png)
 
 ## Future Enhancements
 - Adding predictive analytics to forecast future sales trends.
